@@ -6,7 +6,7 @@ Mariaule Aurélien
 
 ## What is it:
 
-Exercices to learn form : data sanitised and validated,email gestion and sending to database
+Exercice to learn form : data sanitised and validated,email gestion and sending to database
 
 ## When did you work on it :
 
@@ -28,9 +28,13 @@ https://declamatory-servant.000webhostapp.com/index.php
 ## Technos:
 
 -html
+
 -css
+
 -js
+
 -php
+
 -sql
 
 
