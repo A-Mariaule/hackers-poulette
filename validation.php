@@ -30,7 +30,7 @@ if(isset($_POST["submit"])){
         $comment = filter_var($comment,FILTER_SANITIZE_STRING);
         include "data.php";
         send($email);
-        header("Location: contact.php");
+        header("Location: index.php");
         exit();
     }
     else{
