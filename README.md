@@ -6,7 +6,7 @@ Mariaule Aurélien
 
 ## What is it:
 
-Exercice to learn form : data sanitised and validated,email gestion and sending to database
+Exercice to  learn and practice HTML, CSS, JS, PHP, and SQL and to demonstrate proficiency in handling user data and form submissions.
 
 ## When did you work on it :
 
